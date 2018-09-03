@@ -1,3 +1,9 @@
+Interactive하게 demo 데이터를 부여 : 데모 데이터로 KMeans을 학습시켜서 trajectory data를 예측
+
+
+Curriculum Learning : multi stage Curriculum learning 구현
+
+
 <img src="data/logo.jpg" width=25% align="right" /> [![Build status](https://travis-ci.org/openai/baselines.svg?branch=master)](https://travis-ci.org/openai/baselines)
 
 # Baselines
